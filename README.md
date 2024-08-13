@@ -18,7 +18,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-hatem-a5b61124a/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hatem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/M16afk" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hatem-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/MohamedHatem34" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hatem-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
