@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20and%20growing&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Software%20Engineer;Building%20Reliable%20Server%20Solutions;Learning%20Something%20New%20Every%20Day;Embracing%20Challenges%20to%20Grow;Code%20With%20Purpose&font=Fira%20Code&center=true&width=460&height=45&color=2196f3&vCenter=true&size=22"></a>
 </p>
 
 ## About Me
